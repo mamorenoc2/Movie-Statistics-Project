@@ -9,8 +9,13 @@ In this project, i will practice summary statistics from real data. I will:
 I decide to start my research by exploring some data about films and documentaries produced by Netflix.
 
 title: title of the film
+
 genre: genre of the film
+
 language: primary language of the film
+
 year: year the film premiered
+
 runtime: length of the film in minutes
+
 score: film rating of 1 to 10 (worst to best) from the website IMDb
